@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="main_menu_settings">Настройки</string>
+    <string name="main_menu_notes">Записная книжка</string>
+    <string name="text_toast_notesInMenu">Отркрыть записную книжку</string>
+    <string name="text_btn_save">Сохранить</string>
+    <string name="text_toast">Данные сохранены</string>
+</resources>
